@@ -1,0 +1,68 @@
+
+/game ships
+/ship 1 SEV 1
+/index
+ 1
+/type=ship 0
+ 0
+/level
+ 0
+/playerUsable
+ 1
+/data
+/health
+ 100
+/mass
+ 150
+/thrust
+ 12
+/art
+ 1
+/colors
+ 2
+/hitbox size x
+ 3
+/hitbox size y
+ 3
+/explosion asset
+ 3001
+/amount of slots
+ 1
+/slot1
+ 0
+ 1
+
+/ship 2 U-Blaster
+/index
+ 3
+/type=ship 0
+ 0
+/level
+ 0
+/playerUsable
+ 1
+/data
+/health
+ 60
+/mass
+ 100
+/thrust
+ 7
+/art
+ 3
+/colors
+ 2
+/hitbox size x
+ 3
+/hitbox size y
+ 3
+/explosion asset
+ 3001
+/amount of slots
+ 2
+/slot1
+ -1
+ 0
+/slot2
+ 1
+ 0

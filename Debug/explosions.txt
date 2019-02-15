@@ -1,0 +1,43 @@
+
+/explosions
+/playerShipExplode
+/index
+ 3001
+/type=effect 10
+ 10
+/level
+ 0
+/playerUsable
+ 1
+/data
+/effectType = explosion
+ e
+/art asset
+ 3001
+/colors asset
+ 3002
+/maxSize
+ 10
+/size per tick
+ 1
+
+/enemyShipExplode
+/index
+ 3002
+/type=effect 10
+ 10
+/level
+ 0
+/playerUsable
+ 1
+/data
+/effectType = explosion
+ e
+/art asset
+ 3001
+/colors asset
+ 3003
+/maxSize
+ 5
+/size per tick
+ 1

@@ -1,0 +1,47 @@
+
+/projectiles
+/starbolt
+/index
+ 2001
+/type=projectile 2
+ 2
+/level doesn't really matter
+ 0
+/playerUsable doesn't matter
+ 1
+/data
+/type - default projectile
+ p
+/damage
+ 10.0
+/mass
+ 10.0
+/renderer type - trail basic
+ t
+/art asset
+ 2001
+/colors asset
+ 2002
+
+/bluestar
+/index
+ 2002
+/type=projectile 2
+ 2
+/level doesn't really matter
+ 0
+/playerUsable doesn't matter
+ 1
+/data
+/type - default projectile
+ p
+/damage
+ 25.0
+/mass
+ 40.0
+/renderer type - trail basic
+ t
+/art asset
+ 2003
+/colors asset
+ 2004

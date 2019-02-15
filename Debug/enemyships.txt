@@ -1,0 +1,106 @@
+
+/enemy ships
+/ship 1 SEV 2
+/index
+ 101
+/type=ship 0
+ 0
+/level
+ 0
+/playerUsable
+ 0
+/data
+/health
+ 70
+/mass
+ 130
+/thrust
+ 15
+/art
+ 101
+/colors
+ 102
+/hitbox size x
+ 3
+/hitbox size y
+ 2
+/explosion asset
+ 3002
+/amount of slots
+ 2
+/slot1
+ -1
+ -1
+/slot2
+ 1
+ -1
+
+/ship 2 Spike
+/index
+ 103
+/type=ship 0
+ 0
+/level
+ 0
+/playerUsable
+ 0
+/data
+/health
+ 40
+/mass
+ 60
+/thrust
+ 24
+/art
+ 103
+/colors
+ 104
+/hitbox size x
+ 3
+/hitbox size y
+ 3
+/explosion asset
+ 3002
+/amount of slots
+ 1
+/slot1
+ 0
+ -1
+
+/ship 3 The Warrior
+/index
+ 105
+/type=ship 0
+ 0
+/level
+ 0
+/playerUsable
+ 0
+/data
+/health
+ 230
+/mass
+ 200
+/thrust
+ 20
+/art
+ 105
+/colors
+ 106
+/hitbox size x
+ 5
+/hitbox size y
+ 5
+/explosion asset
+ 3002
+/amount of slots
+ 3
+/slot1
+ -1
+ -1
+/slot2
+ 1
+ -1
+/slot3
+ 0
+ -2

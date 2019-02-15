@@ -1,0 +1,82 @@
+
+/game assets
+/weapon 1
+/index
+ 1001
+/type=equipment 1
+ 1
+/level
+ 0
+/playerUsable
+ 1
+/data
+/equipment type = gun g
+ g
+/art asset
+ 1001
+/colors asset
+ 1002
+/proj velocity
+ 0.5
+/reload ticks
+ 20
+/spawn offset x
+ 0
+/spawn offset y
+ 2
+/projectileIndex
+ 2001
+
+/weapon 2
+/index
+ 1003
+/type=equipment 1
+ 1
+/level
+ 0
+/playerUsable
+ 0
+/data
+/equipment type = gun g
+ g
+/art asset
+ 1003
+/colors asset
+ 1002
+/proj velocity
+ -0.8
+/reload ticks
+ 24
+/spawn offset x
+ 0
+/spawn offset y
+ -2
+/projectileIndex
+ 2001
+
+/weapon 3
+/index
+ 1005
+/type=equipment 1
+ 1
+/level
+ 0
+/playerUsable
+ 0
+/data
+/equipment type = gun g
+ g
+/art asset
+ 1004
+/colors asset
+ 1005
+/proj velocity
+ -0.3
+/reload ticks
+ 20
+/spawn offset x
+ 0
+/spawn offset y
+ -3
+/projectileIndex
+ 2002
